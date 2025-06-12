@@ -1,10 +1,13 @@
----
 vlans:
-  - 10:
-    name: Ten
-  - 20:
-    name: Twenty
-  - 30:
-    name: Thirty
-  - 40:
-    name: Fourty 
+    - 
+        '10': null
+        name: Ten
+    - 
+        '20': null
+        name: Twenty
+    - 
+        '30': null
+        name: Thirty
+    - 
+        '40': null
+        name: Fourty
